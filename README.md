@@ -31,3 +31,6 @@ POS-APP, satış işlemlerini kolaylaştırmak ve iş süreçlerini daha verimli
 - **Flutter**: Uygulamanın arayüz ve işlevselliği için kullanılan ana teknoloji.
 - **Firebase**: Veritabanı, kimlik doğrulama ve analiz işlemleri için kullanıldı.
 - **Scrum**: Proje geliştirme sürecinde kullanılan metodoloji.
+
+## Ürün Fotoğrafları
+<a href="https://ibb.co/Ry33kNq"><img src="https://i.ibb.co/k144sJt/Group-1.png" alt="Group-1" border="0"></a>
