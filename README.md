@@ -34,3 +34,5 @@ POS-APP, satış işlemlerini kolaylaştırmak ve iş süreçlerini daha verimli
 
 ## Ürün Fotoğrafları
 <a href="https://ibb.co/Ry33kNq"><img src="https://i.ibb.co/k144sJt/Group-1.png" alt="Group-1" border="0"></a>
+## Ürün Videosu
+[<img src="https://i.ibb.co/k144sJt/Group-1.png" width="50%">](https://www.youtube.com/watch?v=p4LZYTeDq-E "Now in Android: 55")
