@@ -6,32 +6,28 @@ Merhaba! Ben **Cenkay Şahin**. Flutter ile mobil uygulamalar geliştiriyorum. B
 
 ## Proje Hakkında
 
-POS-APP, satış işlemlerini kolaylaştırmak ve iş süreçlerini daha verimli hale getirmek amacıyla geliştirilmiş bir sanal POS (Point of Sale) uygulamasıdır. Uygulama, üç sprint halinde geliştirilmiştir ve her sprintte belirli işlevler eklenmiştir.
+POS-APP, satış işlemlerini kolaylaştırmak ve iş süreçlerini daha verimli hale getirmek amacıyla geliştirilmiş bir sanal POS (Point of Sale) uygulamasıdır. Proje, Scrum metodolojisine uygun şekilde, üç sprint halinde geliştirilmiştir. Her sprintte belirlenen hedefler tamamlanarak uygulama adım adım geliştirilmiştir.
 
-### Sprint 1: Temel İşlevlerin Geliştirilmesi
+### Sprint 1: Fikir Geliştirme ve UI Tasarımları (Puan Tamamlama: %30)
 
-- **Ürün Seçimi ve Fiyat Hesaplama**: Kullanıcılar, mevcut ürünler arasından seçim yaparak sepetlerine ekleyebilir ve toplam fiyatı anında görebilir.
-- **Veritabanı Entegrasyonu**: Seçilen ürünler ve satış işlemleri Firebase veritabanında saklanır, böylece tüm işlemler güvenli bir şekilde depolanır.
+- **Fikir Geliştirme**: Projenin amacı ve kapsamı belirlendi. Kullanıcı ihtiyaçları ve piyasa araştırması yapıldı.
+- **UI Tasarımları**: Uygulamanın arayüz tasarımları yapıldı. Wireframe ve prototipler oluşturuldu.
+- **Proje Hazırlıkları**: Geliştirme ortamı kuruldu, gerekli araçlar ve kütüphaneler belirlendi. Proje yapısı oluşturuldu ve ilk commit yapıldı.
 
-### Sprint 2: Analiz Özelliklerinin Eklenmesi
+### Sprint 2: Sayfaların Oluşturulması ve Ürün Seçimi (Puan Tamamlama: %60)
 
-- **Günlük ve Aylık Satış Analizi**: Uygulama, günlük ve aylık satış verilerini analiz ederek kullanıcılara iş süreçlerini optimize etmeleri için değerli bilgiler sunar.
-- **Analiz Sayfası**: Satış verileri grafikler ve tablolar halinde analiz sayfasında görselleştirilir.
+- **Sayfa Oluşturmalar**: Uygulamanın temel sayfaları oluşturuldu. Kullanıcıların ürün seçimi yapabileceği, sepetlerini görüntüleyebileceği sayfalar geliştirildi.
+- **Ürün Seçimi ve Fiyat Hesaplama**: Kullanıcılar, mevcut ürünler arasından seçim yaparak sepetlerine ekleyebilir ve toplam fiyatı anında görebilir hale geldi.
+- **Temel İşlevlerin Entegrasyonu**: Kullanıcı etkileşimleri ve temel işlevler uygulamaya entegre edildi.
 
-### Sprint 3: Kullanıcı Deneyimi ve Performans İyileştirmeleri
+### Sprint 3: Veritabanı Entegrasyonları ve Optimizasyonlar (Puan Tamamlama: %100)
 
-- **Kullanıcı Arayüzü Geliştirmeleri**: Uygulamanın arayüzü kullanıcı dostu olacak şekilde optimize edilmiştir.
-- **Performans İyileştirmeleri**: Veritabanı erişimi ve veri işleme süreçlerinde performans iyileştirmeleri yapılmıştır.
+- **Veritabanı Entegrasyonları**: Firebase ile veri yönetimi sağlandı. Tüm kullanıcı verileri, satış işlemleri ve analiz verileri Firebase üzerinde depolandı.
+- **Fix İşlemleri ve Optimizasyon**: Uygulamadaki hatalar giderildi, performans iyileştirmeleri yapıldı. Sayfa geçişleri ve kullanıcı deneyimi optimize edildi.
+- **Analiz Sayfası**: Günlük ve aylık satış verileri, analiz sayfasında grafikler ve tablolar halinde görselleştirildi.
 
 ## Teknolojiler
 
 - **Flutter**: Uygulamanın arayüz ve işlevselliği için kullanılan ana teknoloji.
 - **Firebase**: Veritabanı, kimlik doğrulama ve analiz işlemleri için kullanıldı.
 - **Scrum**: Proje geliştirme sürecinde kullanılan metodoloji.
-
-## Kurulum ve Kullanım
-
-1. Bu depoyu klonlayın:
-
-   ```bash
-   git clone https://github.com/Cenkaysahin/POS-APP.git
