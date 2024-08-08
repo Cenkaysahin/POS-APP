@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787936137377",
+    "project_id": "sofradeneme",
+    "storage_bucket": "sofradeneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787936137377:android:e36daa79727d00c23de0e0",
+        "android_client_info": {
+          "package_name": "com.example.denemelers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxh1WY36R_z4fru-LeKaqj6utaBS47W1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
