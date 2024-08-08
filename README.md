@@ -1,16 +1,37 @@
-# denemelers
+# POS-APP
 
-A new Flutter project.
+## Geliştirici Hakkında
 
-## Getting Started
+Merhaba! Ben **Cenkay Şahin**. Flutter ile mobil uygulamalar geliştiriyorum. Bu projede, bir sanal POS sistemi geliştirdim. Uygulama, seçilen ürünlerin fiyatlarını toplayan ve günlük ile aylık satış analizlerini gösteren bir yapıya sahip. Veriler Firebase üzerinde saklanıyor ve analizler Firebase üzerinden yapılıyor.
 
-This project is a starting point for a Flutter application.
+## Proje Hakkında
 
-A few resources to get you started if this is your first Flutter project:
+POS-APP, satış işlemlerini kolaylaştırmak ve iş süreçlerini daha verimli hale getirmek amacıyla geliştirilmiş bir sanal POS (Point of Sale) uygulamasıdır. Uygulama, üç sprint halinde geliştirilmiştir ve her sprintte belirli işlevler eklenmiştir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Sprint 1: Temel İşlevlerin Geliştirilmesi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Ürün Seçimi ve Fiyat Hesaplama**: Kullanıcılar, mevcut ürünler arasından seçim yaparak sepetlerine ekleyebilir ve toplam fiyatı anında görebilir.
+- **Veritabanı Entegrasyonu**: Seçilen ürünler ve satış işlemleri Firebase veritabanında saklanır, böylece tüm işlemler güvenli bir şekilde depolanır.
+
+### Sprint 2: Analiz Özelliklerinin Eklenmesi
+
+- **Günlük ve Aylık Satış Analizi**: Uygulama, günlük ve aylık satış verilerini analiz ederek kullanıcılara iş süreçlerini optimize etmeleri için değerli bilgiler sunar.
+- **Analiz Sayfası**: Satış verileri grafikler ve tablolar halinde analiz sayfasında görselleştirilir.
+
+### Sprint 3: Kullanıcı Deneyimi ve Performans İyileştirmeleri
+
+- **Kullanıcı Arayüzü Geliştirmeleri**: Uygulamanın arayüzü kullanıcı dostu olacak şekilde optimize edilmiştir.
+- **Performans İyileştirmeleri**: Veritabanı erişimi ve veri işleme süreçlerinde performans iyileştirmeleri yapılmıştır.
+
+## Teknolojiler
+
+- **Flutter**: Uygulamanın arayüz ve işlevselliği için kullanılan ana teknoloji.
+- **Firebase**: Veritabanı, kimlik doğrulama ve analiz işlemleri için kullanıldı.
+- **Scrum**: Proje geliştirme sürecinde kullanılan metodoloji.
+
+## Kurulum ve Kullanım
+
+1. Bu depoyu klonlayın:
+
+   ```bash
+   git clone https://github.com/Cenkaysahin/POS-APP.git
